@@ -1,3 +1,104 @@
 {
- "Wishlist": "Wishlist"
+ "global": {
+  "name": "name",
+  "store": "Store",
+  "Wishlist": "Wishlist",
+  "all": "All",
+  "sports": "Sports",
+  "book": "Books",
+  "title": "title",
+  "category": "category",
+  "edit": "Edit",
+  "delete": "Delete",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "save": "Save",
+  "search": "Search",
+  "add": "Add",
+  "sort-asc": "Sort Ascending",
+  "sort-desc": "Sort Descending",
+  "filter-by-price": "Filter by Price",
+  "more": "More",
+  "policy-privacy": "Privacy & Policy",
+  "buy-again": "Buy Again",
+  "Top-selling": "Top Selling",
+  "profile": "Profile"
+ },
+ "nav": {
+  "about": "About",
+  "contact": "Contact",
+  "logo": "Al-Ostourah",
+  "top-search": "search for your favourite product...",
+  "cloths": "Cloths",
+  "Accessories": "Accessories",
+  "Electronics": "Electronics"
+ },
+ "products": {
+  "title": "Products",
+  "filter": "Filter by",
+  "sort": "Sort by",
+  "price": "Price",
+  "rating": "Rating",
+  "new": "New",
+  "discount": "Discount",
+  "sold": "Sold",
+  "all": "All",
+  "men": "Men",
+  "women": "Women",
+  "kids": "Children",
+  "accessories": "Accessories",
+  "electro": "Electronics"
+ },
+ "cart": {
+  "title": "Cart",
+  "total": "Total",
+  "remove": "Remove",
+  "checkout": "Checkout",
+  "empty": "Your cart is empty.",
+  "continue": "Continue Shopping",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "tax": "Tax",
+  "offers": "Offers",
+  "discount": "Discount",
+  "add-to-cart": "Add to cart"
+ },
+ "about": {
+  "title": "About Us"
+ },
+ "home": {
+  "title": "Home",
+  "See-Recent-Offers": "Recent Recent offers",
+  "shop-now": "Shop Now",
+  "shoes": "Shoes"
+ },
+ "contact": {
+  "title": "Contact Us"
+ },
+ "privacy": {
+  "title": "Privacy & Policy"
+ },
+ "Categories": {
+  "title": "Categories",
+  "electronics": "Electronics",
+  "clothing": "Clothing",
+  "furniture": "Furniture",
+  "home": "Home"
+ },
+ "account": {
+  "title": "Account",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "sign-out": "Sign Out",
+  "profile": "Profile",
+  "address": "Address",
+  "orders": "Orders",
+  "favorites": "Favorites",
+  "myAccount": "My Account",
+  "password": "Password",
+  "personal-info": "Personal Information",
+  "change-password": "Change Password",
+  "forgot-password": "Forgot Password?"
+ }
 }

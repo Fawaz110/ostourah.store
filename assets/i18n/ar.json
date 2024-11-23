@@ -1,3 +1,104 @@
 {
- "Wishlist": "المفضلة"
+ "global": {
+  "name": "اسم",
+  "store": "متجر",
+  "Wishlist": "المفضلة",
+  "all": "كل",
+  "sports": "رياضي",
+  "book": "حجز",
+  "title": "عنوان",
+  "category": "اختر صنف",
+  "edit": "ضبط",
+  "delete": "مسح",
+  "confirm": "تاكيد",
+  "cancel": "الغاء",
+  "save": "حفظ",
+  "search": "بحث",
+  "add": "اضافة",
+  "sort-asc": "تصنيف",
+  "sort-desc": "تصنيف",
+  "filter-by-price": "Filter by Price",
+  "more": "أكثر",
+  "policy-privacy": "الخصوصية",
+  "buy-again": "الشراء مجددا",
+  "Top-selling": "الأكثر مبيعا",
+  "profile": "ملفي الشخصي"
+ },
+ "nav": {
+  "about": "عنا",
+  "contact": "جهات",
+  "logo": "الأسطورة",
+  "top-search": "ابحث عن منتجك المفضل ...",
+  "cloths": "ملابس",
+  "Accessories": "مجوهرات",
+  "Electronics": "الكترونيات"
+ },
+ "products": {
+  "title": "المنتجات",
+  "filter": "تصفية",
+  "sort": "ترتيب",
+  "price": "السعر",
+  "rating": "تقييم",
+  "new": "جديد",
+  "discount": "خصم",
+  "sold": "مباع",
+  "all": "الكل",
+  "men": "رجالي",
+  "women": "حريمي",
+  "kids": "أطفال",
+  "accessories": "اكسسوارات",
+  "electro": "الكترونيات"
+ },
+ "cart": {
+  "title": "السلة",
+  "total": "الكل",
+  "remove": "حذف",
+  "checkout": "الغاء الشراء",
+  "empty": "السلة فارغة.",
+  "continue": "استكمال التسوق",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "tax": "ضرايب",
+  "offers": "عروض",
+  "discount": "خصم",
+  "add-to-cart": "اضافة الي السلة"
+ },
+ "about": {
+  "title": "معلومات عنا"
+ },
+ "home": {
+  "title": "الرئيسية",
+  "See-Recent-Offers": "الذهاب الي العروض الحالية",
+  "shop-now": "تسوق الأن",
+  "shoes": "أحذية"
+ },
+ "contact": {
+  "title": "تواصل معنا"
+ },
+ "privacy": {
+  "title": "الخصوصية"
+ },
+ "Categories": {
+  "title": "الأصناف",
+  "electronics": "Electronics",
+  "clothing": "Clothing",
+  "furniture": "Furniture",
+  "home": "Home"
+ },
+ "account": {
+  "title": "الحساب",
+  "login": "تسجيل الدخول",
+  "register": "انشاء حساب",
+  "logout": "الخروج",
+  "sign-out": "الخروج",
+  "profile": "ملفي الشخصي",
+  "address": "العنوان",
+  "orders": "الطلبات",
+  "favorites": "المفضلة",
+  "myAccount": "حسابي",
+  "password": "كلمة المرور",
+  "personal-info": "البينات الشخصية",
+  "change-password": "تغيير كلمة المرور",
+  "forgot-password": "نسيت كلمة السر؟"
+ }
 }

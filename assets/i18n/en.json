@@ -1,6 +1,6 @@
 {
  "global": {
-  "name": "name",
+  "name": "Al-ostourah",
   "store": "Store",
   "Wishlist": "Wishlist",
   "all": "All",
@@ -61,7 +61,8 @@
   "tax": "Tax",
   "offers": "Offers",
   "discount": "Discount",
-  "add-to-cart": "Add to cart"
+  "add-to-cart": "Add to cart",
+  "injoy-sale": "Enjoy Our Sale"
  },
  "about": {
   "title": "About Us"
@@ -89,6 +90,7 @@
   "title": "Account",
   "login": "Login",
   "register": "Register",
+  "enjoy": "To enjoy our special services",
   "logout": "Logout",
   "sign-out": "Sign Out",
   "profile": "Profile",
@@ -97,8 +99,22 @@
   "favorites": "Favorites",
   "myAccount": "My Account",
   "password": "Password",
+  "pass-placeholder": "Enter your password...",
+  "forgotPassword": "Forgot your password?",
+  "confirm-pass": "Confirm Password",
+  "confirm-placeholder": "Confirm your password...",
   "personal-info": "Personal Information",
+  "reset-pass": "Reset Password",
   "change-password": "Change Password",
-  "forgot-password": "Forgot Password?"
+  "forgot-password": "Forgot Password?",
+  "to-know": "To know our recent offers",
+  "phone": "Phone Number",
+  "phone-placeholder": "Enter your phone number...",
+  "submit-login": "Login Now",
+  "submit-register": "Register Now",
+  "have-acc": "Already have an account?",
+  "dont-acc": "Don't have an account?",
+  "i-agree": "I agree to",
+  "or": "Or"
  }
 }

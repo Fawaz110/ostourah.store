@@ -19,7 +19,7 @@
   "sort-desc": "تصنيف",
   "filter-by-price": "Filter by Price",
   "more": "أكثر",
-  "policy-privacy": "الخصوصية",
+  "policy-privacy": "الخصوصيات",
   "buy-again": "الشراء مجددا",
   "Top-selling": "الأكثر مبيعا",
   "profile": "ملفي الشخصي"
@@ -61,7 +61,8 @@
   "tax": "ضرايب",
   "offers": "عروض",
   "discount": "خصم",
-  "add-to-cart": "اضافة الي السلة"
+  "add-to-cart": "اضافة الي السلة",
+  "injoy-sale": "استمتع بالعروض"
  },
  "about": {
   "title": "معلومات عنا"
@@ -89,6 +90,7 @@
   "title": "الحساب",
   "login": "تسجيل الدخول",
   "register": "انشاء حساب",
+  "enjoy": "لكي تستمتع بخدماتنا ",
   "logout": "الخروج",
   "sign-out": "الخروج",
   "profile": "ملفي الشخصي",
@@ -97,8 +99,22 @@
   "favorites": "المفضلة",
   "myAccount": "حسابي",
   "password": "كلمة المرور",
+  "pass-placeholder": "ادخل كلمة المرور ...",
+  "forgotPassword": "نسيت كلمة المرور ?",
+  "reset-pass": "اعادة تعيين كلمة المرور",
+  "confirm-pass": "تأكيد كلمة المرور",
+  "confirm-placeholder": "أكد كلمة المرور",
   "personal-info": "البينات الشخصية",
   "change-password": "تغيير كلمة المرور",
-  "forgot-password": "نسيت كلمة السر؟"
+  "forgot-password": "نسيت كلمة السر؟",
+  "to-know": "لكي تعرف العروض الجديدة",
+  "phone": "رقم الهاتف",
+  "phone-placeholder": "أدخل رقم هاتفك ...",
+  "submit-login": "تسجيل الدخول الأن",
+  "submit-register": "انشاء حساب الأن",
+  "have-acc": "لدي حساب بالفعل?",
+  "dont-acc": "ليس لدي حساب",
+  "i-agree": "أنا أوافق علي",
+  "or": "أو"
  }
 }

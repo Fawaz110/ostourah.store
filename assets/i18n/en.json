@@ -71,7 +71,14 @@
   "title": "Home",
   "See-Recent-Offers": "Recent Recent offers",
   "shop-now": "Shop Now",
-  "shoes": "Shoes"
+  "shoes": "Shoes",
+  "recent-added": "Recent Added",
+  "top-selling": "Top Selling",
+  "categories": "Categories",
+  "keep-in-touch": "Keep in touch",
+  "keep-in-touch2": "To get",
+  "keep-in-touch2sub": "upcomming offers",
+  "see-recent-offers": "See Recent Offers"
  },
  "contact": {
   "title": "Contact Us"

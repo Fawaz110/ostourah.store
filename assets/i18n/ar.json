@@ -71,7 +71,14 @@
   "title": "الرئيسية",
   "See-Recent-Offers": "الذهاب الي العروض الحالية",
   "shop-now": "تسوق الأن",
-  "shoes": "أحذية"
+  "shoes": "أحذية",
+  "recent-added": "تمت اضافته حديثا",
+  "top-selling": "الأعلي مبيعا",
+  "categories": "الأقسام",
+  "keep-in-touch": "ابقي علي تواصل معنا",
+  "keep-in-touch2": "للحصول علي",
+  "keep-in-touch2sub": "أحدث العروض",
+  "see-recent-offers": "احصل علي أحدث العروض"
  },
  "contact": {
   "title": "تواصل معنا"

@@ -1,0 +1,1 @@
+import{m as o,n as r}from"./chunk-WQI3MN5H.js";var e=r("layout"),a=o(e,t=>t.LAYOUT),L=o(e,t=>t.LAYOUT_SKIN),O=o(e,t=>t.LAYOUT_MODE),n=o(e,t=>t.LAYOUT_DIRECTION),p=o(e,t=>t.LAYOUT_WIDTH),g=o(e,t=>t.SIDEBAR_SIZE),s=o(e,t=>t.LAYOUT_NAVIGATION),A=o(e,t=>t.SIDEBAR_COLOR),T=o(e,t=>t.TOPBAR_COLOR);export{n as a};

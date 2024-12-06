@@ -43,6 +43,8 @@
     },
     "products": {
         "title": "المنتجات",
+        "product-name": "اسم المنتج",
+        "one": "المنتج",
         "filter": "تصفية",
         "sort": "ترتيب",
         "price": "السعر",
@@ -59,18 +61,29 @@
     },
     "cart": {
         "title": "السلة",
-        "total": "الكل",
+        "total": "الاجمالي",
+        "cart-totals": "اجماليات السلة",
+        "extimated-delivery": "تكلفة الشحن",
+        "extimated-taxs": "الضرائب المقدرة",
+        "proceed-to-checkout": "استمر لاتمام الطلب",
+        "reviews": "مراجعات",
+        "status": "حالة المنتج",
         "remove": "حذف",
-        "checkout": "الغاء الشراء",
+        "checkout": "اتمام الشراء",
         "empty": "السلة فارغة.",
         "continue": "استكمال التسوق",
-        "subtotal": "Subtotal",
-        "shipping": "Shipping",
+        "quantity": "الكمية",
+        "apply-coupon": "استخدام الكوبون",
+        "coupon-placeholder": "أدخل كود الكوبون",
+        "subtotal": "المجموع الفرعي",
+        "shipping": "الشحن",
         "tax": "ضرايب",
         "offers": "عروض",
         "discount": "خصم",
         "add-to-cart": "اضافة الي السلة",
-        "injoy-sale": "استمتع بالعروض"
+        "injoy-sale": "استمتع بالعروض",
+        "have-a-coupon-q": "هل لديك كوبون خصم؟",
+        "click-here-to-enter-your-code":"انقر هنا لإدخال الرمز الخاص بك"
     },
     "about": {
         "title": "معلومات عنا"
@@ -92,17 +105,27 @@
         "see-recent-offers": "احصل علي أحدث العروض"
     },
     "contact": {
-        "title": "تواصل معنا"
+        "title": "تواصل معنا",
+        "make-custom-request":"تقدم بطلب مخصص",
+        "subject": "رأس الموضوع",
+        "subject-placeholder": "أدخل عنوان لموضوعك...",
+        "message": "الرسالة",
+        "message-placeholder": "أدخل محتوي رسالتك...",
+        "send-message": "ارسال الرسالة",
+        "get-in-touch":"قم بالتواصل معنا",
+        "get-support":"تواصل مع الدعم",
+        "get-direction":"الحصول علي الاتجاه"
     },
     "privacy": {
-        "title": "الخصوصية"
+        "title": "سياسات الأمان والخصوصية",
+        "prev-string":"سيتم استخدام بياناتك الشخصية لمعالجة طلبك، ودعم تجربتك عبر هذا الموقع، ولأغراض أخرى موضحة في"
     },
     "Categories": {
         "title": "الأصناف",
-        "electronics": "Electronics",
-        "clothing": "Clothing",
-        "furniture": "Furniture",
-        "home": "Home"
+        "electronics": "الكترونيات",
+        "clothing": "ملابس",
+        "furniture": "أثاث",
+        "home": "الرئيسية"
     },
     "account": {
         "title": "الحساب",
@@ -114,12 +137,20 @@
         "profile": "ملفي الشخصي",
         "address": "العنوان",
         "orders": "الطلبات",
+        "order-details": "تفاصيل الطلب",
+        "your-order": "طلبك",
         "favorites": "المفضلة",
         "myAccount": "حسابي",
         "email": "البريد الالكتروني",
         "email-placeholder": "أدخل بريدك الالكتروني...",
         "fullName": "الاسم الكامل",
         "fullName-placeholder": "أدخل اسمك الكامل...",
+        "firstName-placeholder": "أدخل اسمك الأول...",
+        "lastName-placeholder": "أدخل اسمك الأخير...",
+        "state-placeholder": "أدخل اسم الولاية أو المحافظة...",
+        "country-placeholder": "اسم الدولة...",
+        "street-placeholder": "اسم او رقم الشارع...",
+        "city-placeholder": "اسم المدينة...",
         "gender": "الجنس",
         "gender-male": "ذكر",
         "gender-female": "أنثي",
@@ -142,5 +173,27 @@
         "dont-acc": "ليس لدي حساب",
         "i-agree": "أنا أوافق علي",
         "or": "أو"
-    }
+    },
+    "payment": {
+        "complete-your-payment": "اتمام عملية الدفع",
+        "bank-transfer": "تحويل بنكي",
+        "cash-on-delivery": "دفع عند الاستلام",
+        "place-order": "احجز الأن",
+        "thanks-for-trust":"شكرا لثقتك بمنتجاتنا",
+        "to-home-page":"عودة للصفحة الرئيسية"
+    },
+    "why-us": {
+        "free-shipping": "توصيل مجاني",
+        "free-shipping-content": "توصيل مجاني بمجميع انحاء مصر",
+        "satisfaction": "ارضاء بنسبة 100%",
+        "support": "دعم دائم 24/7",
+        "secure":"دفع امن"
+    },
+    "footer":{
+        "all-rights-reserved": "كل الحقوق محفوظة © 2024.",
+        "get-it-now":"التطبيق متاح. احصل عليه الان.",
+        "shop-on":"تسوق أثناء التنقل",
+        "pages":"الصفحات"
+    },
+    "hp":"لابتوب اتش بي مع معالج intel"
 }

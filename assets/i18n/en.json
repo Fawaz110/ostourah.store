@@ -43,6 +43,8 @@
     },
     "products": {
         "title": "Products",
+        "product-name": "Product Name",
+        "one": "Product",
         "filter": "Filter by",
         "sort": "Sort by",
         "price": "Price",
@@ -60,17 +62,28 @@
     "cart": {
         "title": "Cart",
         "total": "Total",
+        "cart-totals": "Cart Totals",
+        "reviews": "Reviews",
+        "status": "Status",
+        "extimated-delivery": "Extimated Delivery",
+        "extimated-taxs": "Extimated Taxs",
+        "proceed-to-checkout": "Proceed to checkout",
         "remove": "Remove",
         "checkout": "Checkout",
         "empty": "Your cart is empty.",
         "continue": "Continue Shopping",
         "subtotal": "Subtotal",
         "shipping": "Shipping",
+        "quantity": "Quantity",
+        "apply-coupon": "Apply Coupon",
+        "coupon-placeholder": "Enter Coupon Code",
         "tax": "Tax",
         "offers": "Offers",
         "discount": "Discount",
         "add-to-cart": "Add to cart",
-        "injoy-sale": "Enjoy Our Sale"
+        "injoy-sale": "Enjoy Our Sale",
+        "have-a-coupon-q": "Have a coupon?",
+        "click-here-to-enter-your-code": "Click here to enter your code"
     },
     "about": {
         "title": "About Us"
@@ -92,10 +105,20 @@
         "see-recent-offers": "See Recent Offers"
     },
     "contact": {
-        "title": "Contact Us"
+        "title": "Contact Us",
+        "make-custom-request": "Make Custom Request",
+        "subject": "Subject",
+        "subject-placeholder": "Enter your subject...",
+        "message": "Message",
+        "message-placeholder": "Enter your message...",
+        "send-message": "Send Message",
+        "get-in-touch": "Get in touch",
+        "get-support": "Get Support On Call",
+        "get-direction": "Get Direction"
     },
     "privacy": {
-        "title": "Privacy & Policy"
+        "title": "Privacy & Policy",
+        "prev-string": "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our"
     },
     "Categories": {
         "title": "Categories",
@@ -114,12 +137,20 @@
         "profile": "Profile",
         "address": "Address",
         "orders": "Orders",
+        "order-details": "Order Details",
+        "your-order": "Your Order",
         "favorites": "Favorites",
         "myAccount": "My Account",
         "email": "ُEmail",
         "email-placeholder": "ُEnter your email...",
         "fullName": "ُFull name",
         "fullName-placeholder": "ُEnter your full name...",
+        "firstName-placeholder": "ُEnter your first name...",
+        "lastName-placeholder": "ُEnter your last name...",
+        "state-placeholder": "ُEnter your state...",
+        "country-placeholder": "ُEnter your country...",
+        "street-placeholder": "ُEnter your street...",
+        "city-placeholder": "ُEnter your city...",
         "gender": "ُGender",
         "gender-male": "Male",
         "gender-female": "Female",
@@ -142,5 +173,27 @@
         "dont-acc": "Don't have an account?",
         "i-agree": "I agree to",
         "or": "Or"
-    }
+    },
+    "payment": {
+        "complete-your-payment": "Complete your payment",
+        "bank-transfer": "Bank Transfer",
+        "cash-on-delivery": "Cash on delivery",
+        "place-order": "Place Order",
+        "thanks-for-trust": "Thanks for trusting our products",
+        "to-home-page": "Return To Home Page"
+    },
+    "why-us": {
+        "free-shipping": "Free Shipping",
+        "free-shipping-content": "Free shipping all over the Egypt",
+        "satisfaction": "100% Satisfaction",
+        "support": "24/7 Support",
+        "secure": "Secure Payments"
+    },
+    "footer": {
+        "all-rights-reserved": "all rights reserved © 2024.",
+        "get-it-now": "Al-ostourah App is available. Get it now",
+        "shop-on": "Shop on the go",
+        "pages":"Pages"
+    },
+    "hp": "HP Chromebook With Intel Celeron"
 }

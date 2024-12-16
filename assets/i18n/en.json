@@ -2,6 +2,7 @@
     "global": {
         "name": "Al-ostourah",
         "contact-us": "Contact us",
+        "by": "By",
         "days": "Days",
         "hours": "Hours",
         "minutes": "Minutes",
@@ -30,7 +31,8 @@
         "policy-privacy": "Privacy & Policy",
         "buy-again": "Buy Again",
         "Top-selling": "Top Selling",
-        "profile": "Profile"
+        "profile": "Profile",
+        "view-store": "View Store"
     },
     "nav": {
         "about": "About",
@@ -44,6 +46,26 @@
     "products": {
         "title": "Products",
         "product-name": "Product Name",
+        "description": "Description",
+        "reviews": "Reviews",
+        "order-on-whatsapp": "Order on whatsapp",
+        "available-now": "Available Now!",
+        "special-offer": "Special Offer:",
+        "satisfaction-guaranteed": "100% Satisfaction Guaranteed",
+        "product-description": "Product Description",
+        "product-specifications": "Product Specifications",
+        "product-reviews": "Product Reviews",
+        "customer-feedback": "Customer Feedback",
+        "average-product-rating": "Average Product Rating",
+        "write-review": "Write a review",
+        "rate-q": "How much you rate our product?",
+        "submit-review": "Submit Review",
+        "review-title": "Review Title",
+        "comment": "Comment",
+        "review-title-placeholder": "Ex. Great Product",
+        "comment-placeholder": "Ex. I'd love to buy it more than one time",
+        "like":"Like",
+        "reply":"Reply",
         "one": "Product",
         "filter": "Filter by",
         "sort": "Sort by",
@@ -134,6 +156,7 @@
         "title": "Account",
         "login": "Login",
         "register": "Register",
+        "edit": "Edit Account Information",
         "enjoy": "To enjoy our special services",
         "logout": "Logout",
         "sign-out": "Sign Out",
@@ -190,13 +213,22 @@
         "free-shipping-content": "Free shipping all over the Egypt",
         "satisfaction": "100% Satisfaction",
         "support": "24/7 Support",
-        "secure": "Secure Payments"
+        "secure": "Secure Payments",
+        "secure-desc": "Payment upon receipt of goods, Payment by card in the department, Google Pay, Online card.",
+        "fast-delivery": "Fast Delivery",
+        "fast-delivery-desc": "Lightning-fast shipping, guaranteed.",
+        "warranty": "Warranty",
+        "warranty-desc": "The Consumer Protection Act does not provide for the return of this product of proper quality.",
+        "packaging": "Packaging",
+        "packaging-desc": "Research & development value proposition graphical user interface investor.",
+        "return-14": "Free 14-day returns",
+        "return-14-desc": "Shop risk-free with easy returns."
     },
     "footer": {
         "all-rights-reserved": "all rights reserved © 2024.",
         "get-it-now": "Al-ostourah App is available. Get it now",
         "shop-on": "Shop on the go",
-        "pages":"Pages"
+        "pages": "Pages"
     },
     "hp": "HP Chromebook With Intel Celeron"
 }

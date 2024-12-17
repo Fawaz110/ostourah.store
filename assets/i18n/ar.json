@@ -1,6 +1,8 @@
 {
     "global": {
         "name": "الأسطورة",
+        "welcome": "مرحبا بك",
+        "welcome-back": "مرحبا بعودتك",
         "view-offers": "رؤية العروض",
         "by": "عن طريق",
         "contact-us": "تواصل معنا",
@@ -147,6 +149,8 @@
     },
     "Categories": {
         "title": "الأصناف",
+        "select-category": "اختر صنف",
+        "all-categories": "كل الأصناف",
         "electronics": "الكترونيات",
         "clothing": "ملابس",
         "furniture": "أثاث",
@@ -157,7 +161,7 @@
         "login": "تسجيل الدخول",
         "edit": "تعديل البيانات الشخصية",
         "register": "انشاء حساب",
-        "enjoy": "لكي تستمتع بخدماتنا ",
+        "enjoy": "استمتع بخدماتنا",
         "logout": "الخروج",
         "sign-out": "الخروج",
         "profile": "ملفي الشخصي",
@@ -190,7 +194,7 @@
         "personal-info": "البيانات الشخصية",
         "change-password": "تغيير كلمة المرور",
         "forgot-password": "نسيت كلمة السر؟",
-        "to-know": "لكي تعرف العروض الجديدة",
+        "to-know": "اكتشف عروضنا الجديدة",
         "phone": "رقم الهاتف",
         "phone-placeholder": "أدخل رقم هاتفك ...",
         "submit-login": "تسجيل الدخول الأن",

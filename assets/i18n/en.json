@@ -262,6 +262,10 @@
         "return-14": "Free 14-day returns",
         "return-14-desc": "Shop risk-free with easy returns."
     },
+    "empty": {
+        "wishlist": "Sorry! your wishlist is empty",
+        "cart": "Sorry! your cart is empty"
+    },
     "footer": {
         "all-rights-reserved": "all rights reserved © 2024.",
         "get-it-now": "Al-ostourah App is available. Get it now",
